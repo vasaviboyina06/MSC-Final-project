@@ -98,4 +98,3 @@ These techniques enhance user and clinical trust by providing interpretable mode
 ##  License
 This project is developed as part of the *MSc Data Science Project* at *University of Hertfordshire*.
 
-This project is developed as part of the *MSc Data Science Project* at *University of Hertfordshire*.
